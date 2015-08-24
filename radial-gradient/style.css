@@ -58,10 +58,6 @@ body, html {
 .wrapper-background {
   background-image: radial-gradient(ellipse at top center, #ffe483, rgba(255, 255, 255, 0.38) 62%), radial-gradient(ellipse at top right, #b5eb8e, rgba(255, 255, 255, 0.38) 38%), radial-gradient(ellipse at top left, #7ad9fd, rgba(255, 255, 255, 0.38) 38%);
 }
-.wrapper-background:hover {
-  background-image: radial-gradient(ellipse at top center, #ffe483, rgba(255, 255, 255, 0.38) 42%), radial-gradient(ellipse at top right, #b5eb8e, rgba(255, 255, 255, 0.38) 28%), radial-gradient(ellipse at top left, #7ad9fd, rgba(255, 255, 255, 0.38) 48%);
-  transition: background-image .20s linear;
-}
 .highlight-header.post-head {
   margin: 0 auto;
   width: 100%;
